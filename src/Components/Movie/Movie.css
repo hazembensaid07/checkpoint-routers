@@ -1,0 +1,13 @@
+.movieCard {
+  width: 20rem;
+  background-color: black;
+  color: white;
+  margin: 1%;
+  border: 1px solid white;
+}
+
+.mov {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
